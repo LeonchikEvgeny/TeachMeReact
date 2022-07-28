@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d819f2c2.css",
-    "main.js": "/static/js/main.7e254c96.js",
-    "index.html": "/index.html",
-    "main.d819f2c2.css.map": "/static/css/main.d819f2c2.css.map",
-    "main.7e254c96.js.map": "/static/js/main.7e254c96.js.map"
+    "main.css": "/TeachMeReact/static/css/main.d819f2c2.css",
+    "main.js": "/TeachMeReact/static/js/main.7e254c96.js",
+    "index.html": "/TeachMeReact/index.html",
+    "main.d819f2c2.css.map": "/TeachMeReact/static/css/main.d819f2c2.css.map",
+    "main.7e254c96.js.map": "/TeachMeReact/static/js/main.7e254c96.js.map"
   },
   "entrypoints": [
     "static/css/main.d819f2c2.css",
